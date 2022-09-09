@@ -1,0 +1,31 @@
+.banner {
+    width: 100%;
+    height: 387px;
+    background: rgba(248, 244, 240, 0.359);
+    box-shadow: 0px 2px 35px #918989d1;
+    border-radius: 15px;
+    opacity: 1;
+  }
+  .bannerText {
+    color: rgb(0, 0, 0);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 40px;
+  }
+  .bannerSubText {
+    color: rgb(6, 5, 5);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+  }
+  .buttonOne {
+    border-radius: 20px;
+    background-color: white;
+  }
+  .buttonTwo {
+    border-radius: 20px;
+    margin-left: 10px;
+    border: 2px white solid;
+  }
+  

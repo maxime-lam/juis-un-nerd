@@ -1,0 +1,22 @@
+<Card className="projectCard" style={{ width: '18rem' }}>
+                <Card.Img style={{width: '18rem'}} variant="top" src={noimg} />
+                <Card.Body>
+                    <Card.Title>Stage de première année de BTS</Card.Title>
+                    <Card.Text>
+                        J'ai effectuer ce stage du 31/05/2022 au 02/07/2022 afin de valider ma 
+                        première année de BTS
+                    </Card.Text>
+                    <Button href="/stage1" variant="primary">Voir plus</Button>
+                </Card.Body>
+                </Card>
+                <Card className="projectCard" style={{ width: '18rem' }}>
+                <Card.Img style={{width: '18rem'}} variant="top" src={comingsoon} />
+                <Card.Body>
+                    <Card.Title>Stage de deuxe année de BTS</Card.Title>
+                    <Card.Text>
+                        J'ai effectuer ce stage du 31/05/2022 au 02/07/2022 afin de valider ma 
+                        première année de BTS
+                    </Card.Text>
+                    <Button href="/stage1" variant="primary">Voir plus</Button>
+                </Card.Body>
+                </Card>
